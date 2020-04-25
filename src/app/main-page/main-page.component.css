@@ -434,3 +434,105 @@ ol.carousel-indicators li.active {
 .w_bottom_under ul li i {
     color: #bfbfbf;
 }
+
+
+/*w_footer*/
+
+.w_footer_top {
+    background: #0179b8;
+    min-height: 320px;
+    padding-bottom: 10px;
+}
+
+.w_footer_top .info_service {
+    margin-top: 70px;
+}
+
+.w_footer_top .info_service p {
+    line-height: 23px;
+    margin-top: 15px;
+    color: #fff;
+}
+
+.w_footer_top .footer_link {
+    border-left: 1px solid #0593df;
+    padding-left: 20px;
+    margin-top: 70px;
+}
+
+.w_footer_top .footer_link p {
+    background: url(../../assets/icons/li_bulet.png) no-repeat left center;
+    padding-left: 15px;
+}
+
+.w_footer_top .footer_link p.not {
+    background: none;
+}
+
+.w_footer_top .footer_link p a {
+    line-height: 15px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.w_footer_top .footer_link p a:hover {
+    color: #ff6823;
+}
+
+.w_footer_top p.bct {
+    margin-top: 26px;
+}
+
+.w_footer_mid {
+    background: #4d4d4d;
+    min-height: 65px;
+}
+
+.w_footer_mid p,
+.w_footer_mid a {
+    line-height: 65px;
+    color: #bebebe;
+}
+
+.w_footer_mid a {
+    padding: 0 5px;
+}
+
+.w_footer_mid a:hover {
+    color: #ff6823;
+}
+
+.w_footer_bottom {
+    background: #333333;
+    min-height: 210px;
+}
+
+p.hot_phone_bottom {
+    margin-top: 80px;
+    background: url(../../assets/icons/icon_phone_2.png) no-repeat left center;
+    padding-left: 31px;
+    line-height: 60px;
+    font-weight: bold;
+    font-size: 24px;
+    color: #0082c8;
+}
+
+.info_company {
+    padding-top: 40px;
+}
+
+.info_company p.company_tit,
+.info_company p.tit {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.info_company p {
+    color: #cacaca;
+    line-height: 21px;
+}
+
+.info_company p.tit {
+    color: #0082c8;
+    line-height: 32px;
+}
